@@ -1,0 +1,16 @@
+{
+  "name": "computercraft-pocketbase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "copy_files": "node copy_files.js",
+    "watch": "nodemon copy_files.js --watch src -e lua"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.1.0",
+    "nodemon": "^2.0.20",
+    "dotenv": "^16.0.3"
+  }
+}

@@ -1,0 +1,3 @@
+[submodule "lib/CC-Tweaked-EmmyLua"]
+	path = lib/CC-Tweaked-EmmyLua
+	url = git@github.com:jilleJr/CC-Tweaked-EmmyLua.git
